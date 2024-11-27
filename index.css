@@ -1,13 +1,43 @@
-h3{
-    margin:3rem;
-    padding:0;
-    color: blue;
+.titre1
+{
+  color:green;
+  font-size: 15px;  
+}
+.titre1
+{
+  color: red;
+  font-size: 22px;  
+}
+.span1
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200;
+}
+.span1
+{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 300;
     
 }
-h2{
-    font-size: 50px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+.div1
+{
+    width: 300px;
+    height: 300px;
+    background-color: yellow;
+    margin-bottom: 10px;
 }
-h1{
-    font-style:italic;
+.div2
+{
+    width: 300px;
+    height: 200px;
+    background-color: red;
+    margin-bottom: 10px;
+}
+.div3
+{
+    width: 300px;
+    height: 200px;
+    background-color: green;
+    margin-bottom: 10px;
+    border-radius: 50%;
 }
